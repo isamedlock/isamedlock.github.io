@@ -50,9 +50,9 @@
 ode%20desc" title="NASA ADS" class="ai ai-ads"></a></li>
 						<li><a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=PfWn6i4AAAAJ&gmla=AH70aAU6BZM0BjIfk_C0Zmy\
 YR_PMuWQH-cgx6St8NxUeoHCHxmvl_gry9JLh6PR-KuW67NwpKNcQBZY9SGLcFw7AMoLbvsu3xPPDEq_MlImcJWE" title="Google Scholar" class="ai ai-google-scholar"></a></li>
-						<li><a href="https://github.com/isamedlock" title="GitHub" class="fab fa-github"></a></li>
+						<li><a href="https://github.com/isamedlock" class="icon brands fa-github"><span class="label">Github</span></a></li>
 						<li><a href="https://astronomy.yale.edu/" title="Department" class="fas fa-university"></a></li>
-						<li><a href="isabel.medlock@yale.edu" title="Email" class="fas fa-envelope"></a></li>
+						<li><a href="isabel.medlock@yale.edu" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
 					</ul>
 				</footer>
 			</section>
@@ -83,35 +83,35 @@ YR_PMuWQH-cgx6St8NxUeoHCHxmvl_gry9JLh6PR-KuW67NwpKNcQBZY9SGLcFw7AMoLbvsu3xPPDEq_
 							<section id="two">
 								<div class="container">
 									<h3>Research</h3>
-									<p>My general research interest is computational cosmology. I am interested in using numerical simulations and techniques to answer questions related to cosmology, large-scale structure, and galaxy formation and evolution. Here is a selection of my current and recent projects:</p>
+									<p>My general research interest is computational cosmology. I am interested in using numerical simulations and techniques to answer questions related to cosmology, large-scale structure, and galaxy formation and evolution. Here is a selection of some of my current and recent projects:</p>
 
 									<div class="features">
                                                                                 <article>
                                                                                         <a href="#" class="image"><img src="images/ColdStreams.png" alt="" /></a>
                                                                                         <div class="inner">
                                                                                                 <h4>Cold Streams: The Umbilical Cord of Massive High-z Galaxies </h4>
-                                                                                                <p>As part of a NSF-BSF funded collaboration, I am working on developing high-resolution zoom-in simulations to study the interaction of cold gas streams feeding massive, star-forming, high-z galaxies with the circumgalactic medium.</p>
+                                                                                                <p>Developing high-resolution zoom-in simulations to study the interaction of cold streams feeding star-forming high-z galaxies with the circumgalactic medium.</p>
                                                                                         </div>
                                                                                 </article>
                                                                                 <article>
                                                                                         <a href="#" class="image"><img src="images/Surfboards.png" alt="" /></a>
                                                                                         <div class="inner">
                                                                                                 <h4>Zooming in on Surfboards: Simulating the Formation of Elongated High-z Dwarf Galaxies</h4>
-                                                                                                <p>Recent JWST observation indicate that a vast majority of high-z dwarf galaxies are prolate in shape but cosmological simulations such as IllustrisTNG are in contention with these results. I am working on developing a suite of zoom-in simulations of high-z dwards with sufficient resolution to properly model stellar kinematics and 3D morphologies.</p>
+                                                                                                <p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.</p>
                                                                                         </div>
                                                                                 </article>
                                                                                 <article>
                                                                                         <a href="#" class="image"><img src="images/Feedback.png" alt="" /></a>
                                                                                         <div class="inner">
                                                                                                 <h4>Quantifying Feedback with the CAMELS Project: The Impact of Stellar and Black Hole Feedback on Galaxy Formation and Evolution</h4>
-                                                                                                <p>I am working on using the CAMELS project to quantify the energetics of AGN and SNe feedback and their effect on halo properties, especially the CGM gas fraction, as a function of mass and redshift.</p>
+                                                                                                <p>Quantifying the energetics of AGN and SNe feedback and the effect on halo properties such as the CGM gas fraction.</p>
                                                                                         </div>
                                                                                 </article>
 										<article>
-                                                                                        <a href="https://arxiv.org/abs/2403.02313" class="image"><img src="images/FastRadioBursts.png" alt="" /></a>
+                                                                                        <a href="#" class="image"><img src="images/FastRadioBursts.png" alt="" /></a>
                                                                                         <div class="inner">
-                                                                                                <h4>Fast Radio Bursts as Cosmological Probes</h4>
-                                                                                                <p>I am interested in using fast radio bursts (FRBs) as cosmological probes to study the IGM and CGM. I have used cosmological simulations to study the contribution of <a href="https://academic.oup.com/mnras/article/502/3/3664/6128658">the IGM</a> to FRB dispersion measure, as well as the correlation of dispersion measure with the Compton-y parameter. More recently, I used the CAMELS project to study FRBs as probes of baryons in the CGM and their potential to constrain <a href="https://arxiv.org/abs/2403.02313">models of baryonic feedback</a>.</p>
+                                                                                                <h4>Probing the Circumgalactic Medium with Fast Radio Bursts: Insight from the CAMELS Project</h4>
+                                                                                                <p> Used CAMELS to study fast radio bursts as probes of baryons in the circumgalactic medium and the effect of feedback.</p>
                                                                                         </div>
                                                                                 </article>
                                                                         </div>
@@ -122,7 +122,7 @@ YR_PMuWQH-cgx6St8NxUeoHCHxmvl_gry9JLh6PR-KuW67NwpKNcQBZY9SGLcFw7AMoLbvsu3xPPDEq_
 							<section id="three">
 							  <div class="container">
                                                             <h3>Teaching</h3>
-                                                            <p>While at Yale I have had the opportunity to serve as a teaching assistant as well as lead my own teaching endevours. I believe that teaching is a fundamental aspect of astronomy, in letting all have the opportunity to learn about and study the universe.</p>
+                                                            <p>While at Yale I have had the opportunity to serve as a teaching assistant as well as lead my own teaching endevours.</p>
 
 							    <p>I have served as a teaching assistant for the following courses at Yale University:</p>
                                                                                                                                 
@@ -139,7 +139,7 @@ YR_PMuWQH-cgx6St8NxUeoHCHxmvl_gry9JLh6PR-KuW67NwpKNcQBZY9SGLcFw7AMoLbvsu3xPPDEq_
                                                                 <a href="#" class="image"><img src="images/edu.jpg" alt=""></a>
                                                                 <div class="inner">
                                                                   <h4>Teaching with EduExplora</h4>
-                                                                  <p>I designed and taught a two week introductory course on Astronomy to Latin American middle schoolers and high schoolers visiting Yale University through the EduExplora summer program. As part of the course students participated in a number of hands on activities, including designing, building, and launching their own stomp rockets and creating and visualizing computationally their own solar systems.</p>
+                                                                  <p>I designed and taught a two week introductory course on Astronomy to Latin American middle schoolers and high schoolers visiting Yale University through the EduExplora summer program.</p>
                                                                 </div>
                                                               </article>
                                                             </div>
@@ -152,27 +152,27 @@ YR_PMuWQH-cgx6St8NxUeoHCHxmvl_gry9JLh6PR-KuW67NwpKNcQBZY9SGLcFw7AMoLbvsu3xPPDEq_
 							<section id="four">
 								<div class="container">
 									<h3>Outreach</h3>
-									<p>Outside of research at Yale, I am involved in a number of outreach activitie, highlighted here.</p>
+									<p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus.</p>
 									<div class="features">
 										<article>
-											<a href="#" class="image"><img src="images/Spanish.jpg" alt="" /></a>
+											<a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
 											<div class="inner">
 												<h4>Leitner Planetarium and Obsevatory Spanish Language Public Nights</h4>
-												<p>I am the creator and organizer of Spanish Language Public Nights at Leitner Planetarium and Observatory in New Haven, Conneticut. On the last Thursday of every other month the planetarium hosts a night open to the public including planetarium shows in Spanish and night sky telescope viewing.</p>
+												<p>I am the creater and organizer of Spanish Language Public Nights at Leitner Planetarium and Observatory in New Haven, Conneticut.</p>
 											</div>
 										</article>
 										<article>
-											<a href="#" class="image"><img src="images/sacnas.jpg" alt="" /></a>
+											<a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
 											<div class="inner">
 												<h4>Yale SACNAS</h4>
 												<p>I am the current secretary and treasurer of the Yale chapter of the Society for Advancing Chicanos/Hispanics and Native Americans in STEM (YSACNAS). </p>
 											</div>
 										</article>
 										<article>
-											<a href="#" class="image"><img src="images/letiner.jpeg" alt="" /></a>
+											<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
 											<div class="inner">
 												<h4>Public Talks</h4>
-												<p>I have given talks targeted towards the local New Haven community through several avenues, including at local libraries through the Yale Science in the News program, for school visits at the Leitner Planetarium, and at the after school EVOLUTIONS program of the Peabody Museum.</p>
+												<p>Science in the News, Leitner, Peabody</p>
 											</div>
 										</article>
 									</div>
