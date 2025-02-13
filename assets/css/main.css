@@ -72,6 +72,23 @@ input, select, textarea {
 	appearance: none;
 }
 
+
+.features article {
+    display: flex;
+    align-items: center;
+}
+
+.image-stack {
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+}
+
+.image-stack a {
+    display: block;
+    margin-bottom: 10px;
+}
+
 /* Basic */
 
 	html {
