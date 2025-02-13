@@ -75,7 +75,12 @@ input, select, textarea {
 
 .features article {
     display: flex;
-    align-items: center;
+    justify-content: flex-start;
+}
+
+.content-container {
+    display: flex;
+    align-items: flex-start;
 }
 
 .image-stack {
@@ -87,6 +92,11 @@ input, select, textarea {
 .image-stack a {
     display: block;
     margin-bottom: 10px;
+}
+
+.image-stack img {
+    max-width: 200px; /* Adjust width as needed */
+    height: auto;
 }
 
 /* Basic */
