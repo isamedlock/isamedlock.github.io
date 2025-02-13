@@ -73,32 +73,6 @@ input, select, textarea {
 }
 
 
-.features article {
-    display: flex;
-    justify-content: flex-start;
-}
-
-.content-container {
-    display: flex;
-    align-items: flex-start;
-}
-
-.image-stack {
-    display: flex;
-    flex-direction: column;
-    margin-right: 20px;
-}
-
-.image-stack a {
-    display: block;
-    margin-bottom: 10px;
-}
-
-.image-stack img {
-    max-width: 200px; /* Adjust width as needed */
-    height: auto;
-}
-
 /* Basic */
 
 	html {
