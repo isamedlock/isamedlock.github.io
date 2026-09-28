@@ -1,0 +1,156 @@
+<!DOCTYPE HTML>
+<!--
+	Read Only by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Research | Isabel Medlock</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!-- Load Academicons (for more icons) -->
+		<link
+		  rel="stylesheet"
+		  href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.2/css/academicons.min.css"
+		  integrity="sha512-KlJCpRsLf+KKu2VQa5vmRuClRFjxc5lXO03ixZt82HZUk41+1I0bD8KBSA0fY290ayMfWYI9udIqeOWSu1/uZg=="
+		  crossorigin="anonymous"
+		  />
+		<!-- Load FontAwesome (for icons) -->
+		<link
+		  rel="stylesheet"
+		  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+		  integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
+		  crossorigin="anonymous"
+		  />
+
+		<style>
+			/* Research section: images in a row above the text */
+			.features.stacked article { display: block; }
+			.features.stacked article .inner { width: 100%; }
+			.features.stacked article .image-row { display: flex; align-items: flex-start; gap: 1.5em; margin: 0 0 2em 0; }
+			.features.stacked article .image-row .image { flex: 1; width: auto; margin: 0; }
+			.features.stacked article .image-row .image img { width: 100%; height: auto; }
+			@media screen and (max-width: 736px) {
+				.features.stacked article .image-row { flex-direction: column; }
+			}
+		</style>
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<section id="header">
+				<header>
+					<span class="image avatar"><img src="images/avatar.jpg" alt="" /></span>
+					<h1 id="logo"><a href="index.html">Isabel Medlock</a></h1>
+					<p>Astronomy PhD Candidate<br>at Yale University</p>
+				</header>
+				<nav id="nav">
+					<ul>
+						<li><a href="index.html#one">About Me</a></li>
+						<li><a href="research.html" class="active">Research</a></li>
+						<li><a href="index.html#three">Mentoring, Outreach, and Teaching</a></li>
+						<li><a href="pdfs/Medlock_CV.pdf" target="_blank">Curriculum Vitae</a></li>
+						<li><a href="index.html#five">Contact</a></li>
+					</ul>
+				</nav>
+				<footer>
+					<ul class="icons">
+						<li><a href="https://ui.adsabs.harvard.edu/search/p_=0&q=%20author%3A%22Medlock%2C%20Isabel%22&sort=date%20desc%2C%20bibcode%20desc" title="NASA ADS" class="ai ai-ads"></a></li>
+						<li><a href="https://scholar.google.com/citations?user=PfWn6i4AAAAJ" title="Google Scholar" class="ai ai-google-scholar"></a></li>
+						<li><a href="https://github.com/isamedlock" title="GitHub" class="fab fa-github"></a></li>
+						<li><a href="https://astronomy.yale.edu/" title="Department" class="fas fa-university"></a></li>
+						<li><a href="mailto:isabel.medlock@yale.edu" title="Email" class="fas fa-envelope"></a></li>
+					</ul>
+				</footer>
+			</section>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Research -->
+							<section id="research">
+								<div class="container">
+									<h3>Research</h3>
+									<p>The central question guiding my work is: <b>what is the three-dimensional distribution and thermodynamic state of the baryons in our Universe?</b> This is key for both galaxy formation and evolution, which is regulated by processes such as baryonic feedback and non-thermal pressure, and for cosmology, where baryonic effects are a leading source of uncertainty for Roman, Euclid, and LSST. To address this question, I use hydrodynamical cosmological simulations in combination with analytic models, focusing on two topics: fast radio bursts as cosmological probes and multi-scale filaments.</p>
+
+									<div class="features stacked">
+
+										<article>
+											<div class="image-row">
+												<a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...983...46M/abstract" class="image"><img src="images/FRBs.png" alt="" /></a>
+												<a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...980...61M/abstract" class="image"><img src="images/CAMELS_logo.png" alt="" /></a>
+											</div>
+											<div class="inner">
+												<h4>Fast Radio Bursts as Probes of Baryonic Processes and Cosmology</h4>
+
+												<p>Fast radio bursts, first detected in 2007, are millisecond-long, energetic pulses of radio waves of extragalactic origin. In 2020, FRB measurements put the final nail in the coffin for the missing baryon problem (Macquart et al. 2020), the discrepancy between the predicted cosmic baryon budget and the baryon census measured in stars and cold ISM gas. We now know that a significant portion of the baryons reside in the diffuse circumgalactic medium (CGM) and intergalactic medium (IGM). The challenge has now shifted to carefully characterizing this diffuse population of baryons, which is difficult to observe. FRBs, which directly trace the ionized baryon column density through their dispersion measure (DM) without the temperature or velocity dependence of other probes, are the ideal tool to do this. With the upcoming expected detection of 10,000 localized FRBs per year thanks to DSA-2000, CHIME/FRB, and other facilities, we have the important task of preparing our modeling tools, which has been one of the main focuses of my work.</p>
+												
+												<p>I characterized the contribution of the warm-hot intergalactic medium to FRB dispersion measure and its correlation with the Compton-y parameter (<a href="https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.3664M/abstract" target="_blank">Medlock &amp; Cen 2021</a>).</p>
+
+												<p>Using the Cosmology and Astrophysics with Machine Learning Simulations (CAMELS), I undertook the first systematic comparison of FRB statistics, from the scatter in the dispersion measure distribution to the radial profiles of intersecting halos, between different simulation models, establishing FRBs as a future tool to differentiate between different feedback models (<a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...967...32M/abstract" target="_blank">Medlock et al. 2024</a>).</p>
+												
+												<p>In order to use simulations to interpret observations, we must have a thorough understanding of the underlying model. To contextualize my previous work, we quantified the feedback energetics and effects on halo properties in CAMELS (<a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...980...61M/abstract" target="_blank">Medlock, Neufeld, et al. 2025</a>). Notably, we found that while the TNG model exhibited higher feedback energetics, the SIMBA model was more effective at moving baryons, due to differences in how the energy is coupled to the halo. We also saw that increasing parameters related to supernovae feedback actually decreased overall feedback energy by suppressing the growth of the central supermassive black hole and delaying the onset of AGN feedback, highlighting the complex interplay between these processes.</p>
+
+												<p>I proposed and showed for the first time that FRB statistics, specifically the scatter in FRB dispersion measure, traces the suppression in the matter power spectrum due to baryons (<a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...983...46M/abstract" target="_blank">Medlock et al. 2025</a>). This suppression has recently been measured with FRBs for the first time (<a href="https://ui.adsabs.harvard.edu/abs/2026OJAp....964244R/abstract" target="_blank">Reischke et al. 2025</a>; <a href="https://ui.adsabs.harvard.edu/abs/2026NatAs.tmp..196S/abstract" target="_blank">Sharma et al. 2026</a>).</p>
+
+												<p>One of the primary systematics in FRB cosmology is the uncertainty in the FRB host halo dispersion measure. I led the simulation comparison in a recent study of FRB host halo CGM dispersion measure with localized FRBs (<a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...991L..25L/abstract" target="_blank">Leung, Simha, Medlock et al. 2025</a>). We measured for the first time the stellar mass to DM host relation, finding a negative slope, in tension with popular simulation models.</p>
+												
+												<p>I demonstrated how the cross-correlation between tSZ and FRBs enables us to separate the effects of baryonic feedback and non-thermal pressure, which are highly degenerate in tSZ alone (<a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260806455M/abstract" target="_blank">Medlock &amp; Nagai 2026</a>).</p>
+												<!--<p>Looking Forward: </p>-->
+
+											</div>
+										</article>
+
+										<article>
+											<div class="image-row">
+												<a href="https://ui.adsabs.harvard.edu/abs/2026ApJ..1000..222M/abstract" class="image"><img src="images/ColdStreamFig.jpg" alt="" /></a>
+												<span class="image"><img src="images/Filaments.png" alt="" /></span>
+											</div>
+											<div class="inner">
+												<h4>Multi-Scale Filaments</h4>
+												<p>Filaments are an essential component of the structure of our Universe, ranging from small-scale filaments that penetrate halos and feed galaxies to the large-scale cosmic filaments that host and connect halos. In addition, filaments are expected to contain a large fraction of the cosmic baryon budget. Compared to galaxies and halos, however, filaments remain poorly studied and characterized. My goal is to understand the structure of filaments, how they connect to halos, and how we can observe them.</p>
+												<h5>Cold Streams</h5>
+												<p>At cosmic noon, the peak of cosmic star formation, massive, hot halos have been observed to host star-forming galaxies with star formation rates up to 200 solar masses per year, 25 to 100 times the current Milky Way star formation rate. To sustain this rate of star formation these galaxies need to maintain gas accretion closely following the cosmic accretion rate. Cold, dense, gaseous streams have been proposed as the mechanism that feeds these galaxies. The high density of these cold streams allows them to cool quickly enough as they penetrate the hot halos to avoid being shock heated, and reach all the way to the disks. Indeed, cold streams are observed ubiquitously in cosmological simulations. However, simulations typically focus their resolution in the high density inner halo, neglecting the circumgalactic medium, and underresolving the cold streams. This has led to a lack of consensus on whether these streams can reach the central disks, with different simulations finding disruption ranging from two-thirds to one-third of the virial radius.</p>
+
+												<p>I conducted the first systematic, statistical survey of cold streams in TNG50 (<a href="https://ui.adsabs.harvard.edu/abs/2026ApJ..1000..222M/abstract" target="_blank">Medlock et al. 2026</a>). I found that most high mass halos at cosmic noon exhibit cold streams with the most common configuration being the expected three streams (these halos reside in nodes of the cosmic web). However, despite the high resolution of TNG50, the streams remain underresolved and typically disrupt at two-thirds the virial radius.</p>
+
+												<p>To address the resolution limitations of previous simulations, I am leading a new suite of high-resolution AREPO zoom-in simulations with CGM enhancement. These simulations will reach a target resolution of 50 pc throughout the volume of the CGM to study how cold streams interact with the CGM and establish whether they can survive down to the galaxy disk. Initial results with a moderate resolution in the CGM (250 pc) have shown that with the enhanced resolution, streams do indeed survive further, from near 0.8 R<sub>200c</sub> down to 0.5 R<sub>200c</sub>.</p>
+
+												<h5>Cosmic Filaments</h5>
+												<p>Unlike halos, which have been studied and modeled extensively, cosmic filaments are often neglected. My aim is to develop an analytic filament model that can be used in combination with halo models to enable efficient modeling, as an alternative to hydrodynamical simulations. We have identified the filament line mass, an analogue to the halo mass, as the key physical quantity that captures the thermodynamic properties of cosmic filaments. I am currently working on using models and simulations to characterize how cosmic filaments could be observed through the thermal and kinetic Sunyaev-Zel&rsquo;dovich effects.</p>
+											</div>
+										</article>
+
+									</div>
+								</div>
+							</section>
+
+					</div>
+
+				<!-- Footer -->
+					<section id="footer">
+						<div class="container">
+							<ul class="copyright">
+								<li>&copy; Isabel Medlock. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
