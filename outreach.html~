@@ -1,0 +1,139 @@
+<!DOCTYPE HTML>
+<!--
+	Read Only by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Mentoring, Outreach, and Teaching | Isabel Medlock</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!-- Load Academicons (for more icons) -->
+		<link
+		  rel="stylesheet"
+		  href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.2/css/academicons.min.css"
+		  integrity="sha512-KlJCpRsLf+KKu2VQa5vmRuClRFjxc5lXO03ixZt82HZUk41+1I0bD8KBSA0fY290ayMfWYI9udIqeOWSu1/uZg=="
+		  crossorigin="anonymous"
+		  />
+		<!-- Load FontAwesome (for icons) -->
+		<link
+		  rel="stylesheet"
+		  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+		  integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
+		  crossorigin="anonymous"
+		  />
+
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<section id="header">
+				<header>
+					<span class="image avatar"><img src="images/avatar.jpg" alt="" /></span>
+					<h1 id="logo"><a href="index.html">Isabel Medlock</a></h1>
+					<p>Astronomy PhD Candidate<br>at Yale University</p>
+				</header>
+				<nav id="nav">
+					<ul>
+						<li><a href="index.html#one">About Me</a></li>
+						<li><a href="research.html">Research</a></li>
+						<li><a href="outreach.html" class="active">Mentoring, Outreach, and Teaching</a></li>
+						<li><a href="pdfs/Medlock_CV.pdf" target="_blank">Curriculum Vitae</a></li>
+						<li><a href="index.html#five">Contact</a></li>
+					</ul>
+				</nav>
+				<footer>
+					<ul class="icons">
+						<li><a href="https://ui.adsabs.harvard.edu/search/p_=0&q=%20author%3A%22Medlock%2C%20Isabel%22&sort=date%20desc%2C%20bibcode%20desc" title="NASA ADS" class="ai ai-ads"></a></li>
+						<li><a href="https://scholar.google.com/citations?user=PfWn6i4AAAAJ" title="Google Scholar" class="ai ai-google-scholar"></a></li>
+						<li><a href="https://github.com/isamedlock" title="GitHub" class="fab fa-github"></a></li>
+						<li><a href="https://astronomy.yale.edu/" title="Department" class="fas fa-university"></a></li>
+						<li><a href="mailto:isabel.medlock@yale.edu" title="Email" class="fas fa-envelope"></a></li>
+					</ul>
+				</footer>
+			</section>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Mentoring, Outreach, and Teaching -->
+							<section id="outreach">
+								<div class="container">
+									<h3>Mentoring, Outreach, and Teaching</h3>
+
+									<h4>Student Mentoring</h4>
+									<ul>
+										<li><b>Donglin Wu</b>, Yale undergraduate student (Aug 2025 to present): FRB host halo dispersion measures in CAMELS-TNG50, paper in preparation.</li>
+										<li><b>Chloe Neufeld</b>, Yale graduate student (Sep 2023 to Dec 2024): feedback energetics in CAMELS, second author on <a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...980...61M/abstract" target="_blank">Medlock et al. 2025, ApJ 980, 61</a>.</li>
+									</ul>
+
+									<h4>Outreach and Teaching</h4>
+									<div class="features">
+										<article>
+											<a href="#" class="image"><img src="images/Spanish.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Leitner Planetarium and Observatory Spanish Language Public Nights</h4>
+												<p>I am the creator and organizer of Spanish Language Public Nights at Leitner Planetarium and Observatory in New Haven, Connecticut. Once a semester, the planetarium hosts a night open to the public including planetarium shows in Spanish and night sky telescope viewing. I am currently working on expanding this event to happen three times a semester and develop more materials that can also be used at other facilities for similar events.</p>
+											</div>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/Pathways.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Yale Pathways</h4>
+												<p>In partnership with the Yale Pathways program, I co-designed and led two introductory astrophysics workshops for New Haven public high school students. The first, in July 2025, was a two-day workshop on black holes and dark matter. In July 2026 we expanded it into a one-week program covering scales in astrophysics from the solar system to the cosmic web, with a focus on computational astrophysics through hands-on demos and a session in StarLab, a mobile planetarium. One of the major goals of our workshops was to show students what it looks like to do astrophysics research, and help them envision themselves as future researchers.</p>
+											</div>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/sacnas.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Yale SACNAS</h4>
+												<p>I served as the co-president, secretary, and treasurer of the Yale chapter of the Society for Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS). As part of my responsibilities I helped lead and organize meetings, managed the budget, and organized outreach events. I was also part of the organizing committee for the 2025 SACNAS New England Community gathering our chapter led and hosted at Yale.</p>
+											</div>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/letiner.jpeg" alt="" /></a>
+											<div class="inner">
+												<h4>Public Talks</h4>
+												<p>I have given talks targeted towards the local New Haven community through several avenues, including at local libraries through the Yale Science in the News program, for school visits at the Leitner Planetarium, and at the after school EVOLUTIONS program of the Peabody Museum.</p>
+											</div>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/edu.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Teaching with EduExplora</h4>
+												<p>I designed and taught a two-week introductory course on Astronomy to Latin American middle schoolers and high schoolers visiting Yale University through the EduExplora summer program. As part of the course, students participated in several hands-on activities, including designing, building, and launching their own stomp rockets as well as creating and visualizing computationally their own solar systems.</p>
+											</div>
+										</article>
+									</div>
+								</div>
+							</section>
+
+					</div>
+
+				<!-- Footer -->
+					<section id="footer">
+						<div class="container">
+							<ul class="copyright">
+								<li>&copy; Isabel Medlock. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
